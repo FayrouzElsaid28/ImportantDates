@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#008CFF</color>
+    <color name="colorPrimaryDark">#006CFF</color>
+    <color name="colorAccent">#D81B60</color>
+
+    <color name="white">#ffffff</color>
+    <color name="black">#000000</color>
+    <color name="transparent">#00000000</color>
+
+    <color name="placeholder_grey">#D7E0E9</color>
+    <color name="placeholder_red">#F26969</color>
+
+    <color name="personal_color">#CCE8FE</color>
+    <color name="personal_txt_color">#54B2FF</color>
+
+    <color name="wife_color">#EEEBFC</color>
+    <color name="wife_txt_color">#A59AF1</color>
+    
+    <color name="kids_color">#DDF8F3</color>
+    <color name="kids_txt_color">#67D6C5</color>
+
+    <color name="servant_color">#FFF0E9</color>
+    <color name="servant_txt_color">#FBA872</color>
+</resources>
