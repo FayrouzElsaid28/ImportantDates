@@ -4,12 +4,13 @@
 
     <application
         android:allowBackup="true"
-        android:icon="@mipmap/ic_launcher"
+        android:icon="@drawable/logo"
         android:label="@string/app_name"
-        android:roundIcon="@mipmap/ic_launcher_round"
+        android:roundIcon="@drawable/logo"
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
-        <activity android:name=".view.features.settings.SettingsActivity"></activity>
+        <activity android:name=".view.registration.login.ForgetPasswordActivity"></activity>
+        <activity android:name=".view.features.settings.SettingsActivity" />
         <activity android:name=".view.features.notifiction.NotificationActivity" />
         <activity android:name=".view.features.information.wifes.WifesActivity" />
         <activity android:name=".view.features.information.servants.ServantsActivity" />
