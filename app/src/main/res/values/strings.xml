@@ -34,4 +34,12 @@
     <string name="signup_continue">استمرار</string>
     <string name="review">رجوع لمراجعة البيانات</string>
 
+    <!--Main-->
+    <string name="main_txt">مفكرة عن الاحداث المهمة التي يجب عليك تذكرها</string>
+    <string name="attention">تنبيه بادخال البيانات الآتية كاملة بشكل صحيح</string>
+    <string name="wife_data">بيانات الزوجة</string>
+    <string name="personal_data">بيانات شخصية</string>
+    <string name="serant_data">بيانات الخادمة</string>
+    <string name="kid_data">بيانات الأبناء</string>
+
 </resources>

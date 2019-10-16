@@ -27,7 +27,7 @@ class LoginActivity : AppCompatActivity() {
             loading.visibility = View.VISIBLE
             Handler().postDelayed({
                 //TODO:: Login with api -- view model
-                openActivity(this,MainActivity::class.java)
+                openActivity(this, MainActivity::class.java)
                 finishAffinity()
             }, 1000)
         }

@@ -22,4 +22,7 @@
 
     <color name="servant_color">#FFF0E9</color>
     <color name="servant_txt_color">#FBA872</color>
+
+    <color name="view_red">#F8C1C1</color>
+    <color name="view_grey">#F5F6F7</color>
 </resources>

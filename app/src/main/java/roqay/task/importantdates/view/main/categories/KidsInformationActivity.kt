@@ -4,11 +4,11 @@ import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 import roqay.task.importantdates.R
 
-class ServantsInformation : AppCompatActivity() {
+class KidsInformationActivity : AppCompatActivity() {
 
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
-        setContentView(R.layout.activity_servants_information)
+        setContentView(R.layout.activity_kids_information)
 
         //TODO:: Check if edit load information if not take empty object
     }
